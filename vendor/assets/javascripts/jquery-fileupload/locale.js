@@ -14,16 +14,16 @@
 window.locale = {
     "fileupload": {
         "errors": {
-            "maxFileSize": "File is too big",
-            "minFileSize": "File is too small",
-            "acceptFileTypes": "Filetype not allowed",
-            "maxNumberOfFiles": "Max number of files exceeded",
-            "uploadedBytes": "Uploaded bytes exceed file size",
+            "maxFileSize": "文件过大",
+            "minFileSize": "文件过小",
+            "acceptFileTypes": "文件类型错误",
+            "maxNumberOfFiles": "文件太多了",
+            "uploadedBytes": "超出上传容量",
             "emptyResult": "Empty file upload result"
         },
-        "error": "Error",
-        "start": "Start",
-        "cancel": "Cancel",
-        "destroy": "Delete"
+        "error": "错误",
+        "start": "上传",
+        "cancel": "取消",
+        "destroy": "删除"
     }
 };
