@@ -19,7 +19,7 @@ window.locale = {
             "acceptFileTypes": "文件类型错误",
             "maxNumberOfFiles": "文件太多了",
             "uploadedBytes": "超出上传容量",
-            "emptyResult": "Empty file upload result"
+            "emptyResult": "没有返回结果"
         },
         "error": "错误",
         "start": "上传",
